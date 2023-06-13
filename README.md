@@ -4,7 +4,7 @@
   
   
 ## 🚀 Objetivo
-O objetivo dessa atividade é a criação de uma página para a exibição dos resultados dos sorteios das loterias Megasena e Lotofácil da Caixa Econômica Federal, utilizando componentes feitos em React.
+O objetivo dessa atividade é a criação de páginas, usando o React Router DOM, para a exibição dos resultados dos sorteios das loterias Megasena e Lotofácil da Caixa Econômica Federal, utilizando componentes feitos em React.
 
 ## 👷🏻‍♀️ Setup
 Para executar a aplicação siga os passos abaixo:
@@ -12,8 +12,8 @@ Para executar a aplicação siga os passos abaixo:
 . Clone esse respositório:
 
 ```
-$ git clone https://github.com/thaleskerber/programacao-scripts-atv01.git
-$ cd programacao-scripts-atv01
+$ git clone https://github.com/thaleskerber/programacao-scripts-atv02.git
+$ cd programacao-scripts-atv02
 ```
 
 . Instale as dependências:
